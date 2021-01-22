@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5F632FD-9496-43F5-B7D2-C5DC904AAABB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PoltriFarm</RootNamespace>
+    <AssemblyName>PoltriFarm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuyPoltry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyPoltry.Designer.cs">
+      <DependentUpon>BuyPoltry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculateBill.cs" />
+    <Compile Include="exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exit.Designer.cs">
+      <DependentUpon>exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Food and V.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food and V.Designer.cs">
+      <DependentUpon>Food and V.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sellPoltry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sellPoltry.Designer.cs">
+      <DependentUpon>sellPoltry.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BuyPoltry.resx">
+      <DependentUpon>BuyPoltry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit.resx">
+      <DependentUpon>exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food and V.resx">
+      <DependentUpon>Food and V.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sellPoltry.resx">
+      <DependentUpon>sellPoltry.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02-silkie-showgirls-950.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birds_Eye_View-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birds_Eye_View-31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iStock_000014860887_Medium.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hens_With_White_Hen_Pics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hens_With_White_Hen_Pics1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rooster-singing-cock-on-a-grass.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

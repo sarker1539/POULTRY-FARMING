@@ -1,0 +1,27 @@
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\bin\Debug\PoltriFarm.exe
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\bin\Debug\PoltriFarm.pdb
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.BuyPoltry.resources
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.Form1.resources
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.Properties.Resources.resources
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.csproj.GenerateResource.Cache
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.exe
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.pdb
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.sellPoltry.resources
+c:\users\prince selim\documents\visual studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.calBill.resources
+C:\Users\Prince Selim\Documents\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.csprojResolveAssemblyReference.cache
+C:\Users\Prince Selim\Documents\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.sell2.resources
+C:\Users\Prince Selim\Documents\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.exit.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.exe
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.pdb
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\bin\Debug\PoltriFarm.exe
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\bin\Debug\PoltriFarm.pdb
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.csprojResolveAssemblyReference.cache
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.BuyPoltry.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.exit.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.Form1.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.Properties.Resources.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.sellPoltry.resources
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.csproj.GenerateResource.Cache
+E:\document\Visual Studio 2010\Projects\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.Food_and_V.resources
+C:\Users\PRINCE SELIM\Desktop\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.exe
+C:\Users\PRINCE SELIM\Desktop\PoltriFarm\PoltriFarm\obj\x86\Debug\PoltriFarm.pdb
